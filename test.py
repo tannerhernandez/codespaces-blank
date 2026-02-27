@@ -1,1 +1,1 @@
-macbook = {"type": "Macbook Air", "color": "Rose Gold", "year": 2021, "screen size": 13.3, "battery health": 90}
+macbook = {"type": "Macbook Air", "color": "Rose Gold", "year": 2021, "screen_size": 13.3, "battery_health": 90}
