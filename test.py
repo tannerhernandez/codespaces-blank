@@ -1,1 +1,3 @@
-macbook = {"type": "Macbook Air", "color": "Rose Gold", "year": 2021, "screen_size": 13.3, "battery_health": 90}
+fav = dict(sam= 'pizza', lei= 'tacos', rui= 'ramen')
+for key, value in fav.items():
+    print(f"{'key'} likes {'value'})
